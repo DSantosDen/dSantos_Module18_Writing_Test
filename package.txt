@@ -1,0 +1,16 @@
+{
+  "name": "block18",
+  "version": "1.0.0",
+  "main": "dSantos module 18 Part II.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
